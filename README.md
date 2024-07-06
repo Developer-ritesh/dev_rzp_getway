@@ -2,6 +2,8 @@
 
 A Flutter package for integrating Razorpay payment gateway with automatic order ID generation. This package simplifies the process of making payments using Razorpay by providing easy-to-use methods for creating orders and handling payment events.
 
+![dev_rzp_getway](https://github.com/Developer-ritesh/dev_rzp_getway/assets/116947363/551312b1-64be-4eca-b9d6-ca0645c5205b)
+
 ## Features
 
 - Automatic order ID generation
@@ -118,4 +120,6 @@ See the complete example in the example directory for a full implementation.
 Contributions are welcome! Please open an issue or submit a pull request with any improvements or bug fixes.
 
 # GitHub
-For more details, visit the GitHub repository.
+For more details, [visit the GitHub repository](https://github.com/Developer-ritesh/dev_rzp_getway)
+
+Copyright (c) 2024 [Developer Ritesh](https://biharigraphic.com/)
