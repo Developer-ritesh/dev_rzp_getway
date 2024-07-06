@@ -25,13 +25,13 @@ flutter pub get dev_rzp_getway
 
 ## Usage
 - Step 1: Import the package
-```
+```dart
 import 'package:dev_rzp_getway/dev_rzp_getway.dart';
 import 'package:dev_rzp_getway/api/apis.dart';
 ```
 
 - Step 2: Initialize and use the package
-```
+```dart
 import 'package:flutter/material.dart';
 import 'package:razorpay_flutter/razorpay_flutter.dart';
 import 'package:dev_rzp_getway/dev_rzp_getway.dart';
@@ -94,7 +94,7 @@ class MyHomePage extends StatelessWidget {
 ```
 - Step 3: Handle payment events
 You can handle payment success, error, and external wallet events by providing callback functions when initializing the Apis class.
-```
+```dart
 final DevRzpGetway gateway = Apis(
   onPaymentSuccess: (response) {
     // Handle payment success
