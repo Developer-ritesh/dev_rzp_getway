@@ -1,6 +1,6 @@
 name: dev_rzp_getway
 description: "This package for razorpay payment getway with automatic order id."
-version: 3.0.1
+version: 3.0.2
 homepage: https://github.com/Developer-ritesh/dev_rzp_getway
 repository:  https://github.com/Developer-ritesh/dev_rzp_getway
 issue_tracker:  https://github.com/Developer-ritesh/dev_rzp_getway/issues
