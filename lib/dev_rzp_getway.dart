@@ -3,6 +3,7 @@ library dev_rzp_getway;
 import 'dart:developer';
 
 import 'package:dev_rzp_getway/api/order_id.dart';
+import 'package:dev_rzp_getway/api/src/currency_code.dart';
 import 'package:razorpay_flutter/razorpay_flutter.dart';
 
 part 'api/checkout.dart';
@@ -34,6 +35,7 @@ abstract class DevRzpGetway {
     required double amount,
     required String key,
     required String secret,
+    required int timeout,
   });
 
   void _handlePaymentSuccess(PaymentSuccessResponse response) {

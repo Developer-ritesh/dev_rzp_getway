@@ -20,3 +20,6 @@ All notable changes to this project will be documented in this file.
 - Added automatic order ID generation.
 - Handlers for payment success, error, and external wallet events.
 
+### Added Timeout
+
+- Payment time out in second
