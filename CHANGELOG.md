@@ -23,3 +23,15 @@ All notable changes to this project will be documented in this file.
 ### Added Timeout
 
 - Payment time out in second
+
+## [3.1.0] - 2025-08-01
+
+### Added
+- Support for Flutter SDK `>=3.4.3`.
+- Integration with `dio: ^5.8.0+1`.
+- Enhanced API for creating orders and handling Razorpay payments.
+- Screenshot support added in `pubspec.yaml`.
+
+### Fixed
+- Removed local `path:` dependency on `razorpay_flutter` to make it publishable.
+- Minor cleanup in `pubspec.yaml` and structure for pub.dev compatibility.
