@@ -33,5 +33,4 @@ All notable changes to this project will be documented in this file.
 - Screenshot support added in `pubspec.yaml`.
 
 ### Fixed
-- Removed local `path:` dependency on `razorpay_flutter` to make it publishable.
 - Minor cleanup in `pubspec.yaml` and structure for pub.dev compatibility.
